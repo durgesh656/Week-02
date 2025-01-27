@@ -33,13 +33,14 @@
     "Application.FoodDeliverySystem.executor": "Run",
     "Application.HospitalManagementSystem.executor": "Run",
     "Application.LibraryManagementSystem.executor": "Run",
+    "Application.RideHailingApplication.executor": "Run",
     "Application.VehicleRentalSystem.executor": "Run",
     "Application.employeemanagementsystem.EmployeeManagementSystem.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HospitalManagementSystem">
+  <component name="RunManager" selected="Application.RideHailingApplication">
     <configuration name="BankingSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bankingsystem.BankingSystem" />
       <module name="Day-6" />
@@ -99,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VehicleRentalSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vehiclerentalsystem.VehicleRentalSystem" />
+    <configuration name="RideHailingApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ridehailingapplication.RideHailingApplication" />
       <module name="Day-6" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vehiclerentalsystem.*" />
+          <option name="PATTERN" value="ridehailingapplication.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RideHailingApplication" />
         <item itemvalue="Application.HospitalManagementSystem" />
         <item itemvalue="Application.FoodDeliverySystem" />
         <item itemvalue="Application.LibraryManagementSystem" />
         <item itemvalue="Application.BankingSystem" />
-        <item itemvalue="Application.VehicleRentalSystem" />
       </list>
     </recent_temporary>
   </component>

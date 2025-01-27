@@ -28,12 +28,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Ecommerceplateform.executor": "Run",
     "Application.employeemanagementsystem.EmployeeManagementSystem.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.employeemanagementsystem.EmployeeManagementSystem">
+  <component name="RunManager" selected="Application.Ecommerceplateform">
+    <configuration name="Ecommerceplateform" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ecommerceplatform.Ecommerceplateform" />
+      <module name="Day-6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ecommerceplatform.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EmployeeManagementSystem" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EmployeeManagementSystem" />
       <module name="Day-6" />
@@ -56,6 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ecommerceplateform" />
         <item itemvalue="Application.employeemanagementsystem.EmployeeManagementSystem" />
       </list>
     </recent_temporary>

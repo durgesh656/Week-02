@@ -30,13 +30,14 @@
   "keyToString": {
     "Application.BankingSystem.executor": "Run",
     "Application.Ecommerceplateform.executor": "Run",
+    "Application.LibraryManagementSystem.executor": "Run",
     "Application.VehicleRentalSystem.executor": "Run",
     "Application.employeemanagementsystem.EmployeeManagementSystem.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BankingSystem">
+  <component name="RunManager" selected="Application.LibraryManagementSystem">
     <configuration name="BankingSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bankingsystem.BankingSystem" />
       <module name="Day-6" />
@@ -70,6 +71,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LibraryManagementSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="librarymanagementsystem.LibraryManagementSystem" />
+      <module name="Day-6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="librarymanagementsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="VehicleRentalSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="vehiclerentalsystem.VehicleRentalSystem" />
       <module name="Day-6" />
@@ -98,6 +112,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LibraryManagementSystem" />
         <item itemvalue="Application.BankingSystem" />
         <item itemvalue="Application.VehicleRentalSystem" />
         <item itemvalue="Application.Ecommerceplateform" />

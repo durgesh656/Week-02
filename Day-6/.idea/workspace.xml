@@ -30,6 +30,7 @@
   "keyToString": {
     "Application.BankingSystem.executor": "Run",
     "Application.Ecommerceplateform.executor": "Run",
+    "Application.FoodDeliverySystem.executor": "Run",
     "Application.LibraryManagementSystem.executor": "Run",
     "Application.VehicleRentalSystem.executor": "Run",
     "Application.employeemanagementsystem.EmployeeManagementSystem.executor": "Run",
@@ -37,7 +38,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LibraryManagementSystem">
+  <component name="RunManager" selected="Application.FoodDeliverySystem">
     <configuration name="BankingSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bankingsystem.BankingSystem" />
       <module name="Day-6" />
@@ -71,6 +72,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FoodDeliverySystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="onlinefooddeliverysystem.FoodDeliverySystem" />
+      <module name="Day-6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="onlinefooddeliverysystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LibraryManagementSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="librarymanagementsystem.LibraryManagementSystem" />
       <module name="Day-6" />
@@ -97,26 +111,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="employeemanagementsystem.EmployeeManagementSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="employeemanagementsystem.EmployeeManagementSystem" />
-      <module name="Day-6" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="employeemanagementsystem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FoodDeliverySystem" />
         <item itemvalue="Application.LibraryManagementSystem" />
         <item itemvalue="Application.BankingSystem" />
         <item itemvalue="Application.VehicleRentalSystem" />
         <item itemvalue="Application.Ecommerceplateform" />
-        <item itemvalue="Application.employeemanagementsystem.EmployeeManagementSystem" />
       </list>
     </recent_temporary>
   </component>

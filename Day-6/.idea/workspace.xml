@@ -28,6 +28,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BankingSystem.executor": "Run",
     "Application.Ecommerceplateform.executor": "Run",
     "Application.VehicleRentalSystem.executor": "Run",
     "Application.employeemanagementsystem.EmployeeManagementSystem.executor": "Run",
@@ -35,7 +36,20 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.VehicleRentalSystem">
+  <component name="RunManager" selected="Application.BankingSystem">
+    <configuration name="BankingSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bankingsystem.BankingSystem" />
+      <module name="Day-6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bankingsystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ecommerceplateform" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ecommerceplatform.Ecommerceplateform" />
       <module name="Day-6" />
@@ -84,6 +98,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BankingSystem" />
         <item itemvalue="Application.VehicleRentalSystem" />
         <item itemvalue="Application.Ecommerceplateform" />
         <item itemvalue="Application.employeemanagementsystem.EmployeeManagementSystem" />
